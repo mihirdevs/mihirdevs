@@ -1,7 +1,6 @@
-<img src="./github-header-image.png" alt="Header" style="width: 100%;height:100px">
-###Hi there 👋
+<img src="./github-header-image.png" alt="Header" style="width: 100%;">
 
-<!--
+
 **mihirdevs/mihirdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <!-- ![](https://komarev.com/ghpvc/?username=mihirdevs)
 ![Visitor Count](https://profile-counter.glitch.me/{miihirdevs}/count.svg) -->
