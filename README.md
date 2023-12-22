@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-image.png){: width="100%"}
 ### Hi there 👋
 
 <!--
