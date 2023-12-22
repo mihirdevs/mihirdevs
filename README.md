@@ -1,5 +1,4 @@
 <img src="./my-github-header.png" alt="Header" style="width: 100%;">
-![](https://komarev.com/ghpvc/?username=mihirdevs & color=green & style=flat-square)
 
 <!-- **mihirdevs/mihirdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,9 +11,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
+<div align="right">
+  <a href="https://visitorbadge.io/status?path=mihirdevs"><img src="https://api.visitorbadge.io/api/visitors?path=mihirdevs&label=Profile%20Visitors&labelTextColor=white&countTextColor=black&labelColor=%23ba68c8&countColor=%23dce775&style=flat-square&labelStyle=upper" /></a>
+</div>
 
 
-<!-- ![](https://komarev.com/ghpvc/?username=mihirdevs)
-![Visitor Count](https://profile-counter.glitch.me/{miihirdevs}/count.svg) -->
-![Snake animation](https://github.com/mihirdevs/mihirdevs/blob/output/github-contribution-grid-snake.svg)
+
+
+
