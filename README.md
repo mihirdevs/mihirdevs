@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 <!-- ![](https://komarev.com/ghpvc/?username=mihirdevs)
 ![Visitor Count](https://profile-counter.glitch.me/{miihirdevs}/count.svg) -->
+![Snake animation](https://github.com/mihirdevs/mihirdevs/blob/output/github-contribution-grid-snake.svg)
