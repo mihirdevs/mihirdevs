@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 <div align="right">
   <a href="https://visitorbadge.io/status?path=mihirdevs"><img src="https://api.visitorbadge.io/api/visitors?path=mihirdevs&label=Profile%20Visitors&labelTextColor=white&countTextColor=black&labelColor=%23ba68c8&countColor=%23dce775&style=flat-square&labelStyle=upper" /></a>
 </div>
-
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mihirdevs&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mihirdevs&theme=default&utcOffset=8" />
+</div>
 
 
 
