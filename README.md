@@ -1,7 +1,7 @@
-<img src="./my-github-header.png" alt="Header" style="width: 100%;">
+<!-- <img src="./my-github-header.png" alt="Header" style="width: 100%;">
 
 
-<!-- **mihirdevs/mihirdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **mihirdevs/mihirdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-<!-- ![](https://komarev.com/ghpvc/?username=mihirdevs)
-![Visitor Count](https://profile-counter.glitch.me/{miihirdevs}/count.svg) -->
+![](https://komarev.com/ghpvc/?username=mihirdevs)
+-->
+<div align="right">
+  <a href="https://visitorbadge.io/status?path=mihirdevs"><img src="https://api.visitorbadge.io/api/visitors?path=mihirdevs&label=Profile%20Visitors&labelTextColor=white&countTextColor=black&labelColor=%23ba68c8&countColor=%23dce775&style=flat-square&labelStyle=upper" /></a>
